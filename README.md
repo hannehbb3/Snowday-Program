@@ -9,7 +9,8 @@ House Items to consider:
 <br />
 
 1. You will need to provide First and Last Name, work email, and why are you signing up? <br />
-2. Company Name, Job Title, Snowflake Edition, and Cloud Provider of Choice (Azure, AWS, GCP). You can use the following Link to access the website. [Setup Snowflake Trial](https://signup.snowflake.com/)
+2. Company Name, Job Title, Snowflake Edition, and Cloud Provider of Choice (Azure, AWS, GCP).
+3. You can use the following Link to access the website. [Setup Snowflake Trial](https://signup.snowflake.com/)
 
 <br />
 
