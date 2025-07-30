@@ -3,10 +3,14 @@ Snowflake's Snowday Program built for data enthusiasts!
 
 ## Day Before Snowday
 In order to provide the best experience, we recommend setting up the Snowflake Trial Account. <br />
-House Items to consider: <br />
+House Items to consider: 
+
+<br />
+
 1. You will need to provide First and Last Name, work email, and why are you signing up? <br />
-2. Company Name, Job Title, Snowflake Edition, and Cloud Provider of Choice (Azure, AWS, GCP) <br />
-You can use the following Link to access the website. [Setup Snowflake Trial](https://signup.snowflake.com/) <br />
+2. Company Name, Job Title, Snowflake Edition, and Cloud Provider of Choice (Azure, AWS, GCP). You can use the following Link to access the website. [Setup Snowflake Trial](https://signup.snowflake.com/)
+
+<br />
 
 ## Your Snowday
 ### Proposed Agenda for Day 1 - Starting at 9:00 AM
