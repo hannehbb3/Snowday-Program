@@ -1,4 +1,5 @@
-# Snowday-Program
+![Snowflake](Pictures/sno-wddm-facebook-profilecover-employee-850x315.png)
+# Program Overview
 Snowflake's Snowday Program built for data enthusiasts!
 
 ## Day Before Snowday
