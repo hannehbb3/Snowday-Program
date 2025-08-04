@@ -46,7 +46,7 @@ House Items to consider:
 
 <br />
 
-### What to keep upgrading your Snowflake skills? <br />
+### Want to keep upgrading your Snowflake skills? <br />
 ### Check out all the Quickstarts we have available at this [Link](https://quickstarts.snowflake.com/ "Snowflake Quickstarts")
 
 ## Hope you enjoyed your Snowday!
