@@ -15,7 +15,7 @@ House Items to consider:
 <br />
 
 ## Your Snowday
-### Proposed Agenda for Day 1 - Starting at 9:00 AM
+### Proposed Agenda for Day 1 - Starting at 9:00 AM or 12:00 PM
 | Option | Quickstart Topic | Time Minutes | Details | Prerequisities | Links to Quickstarts |
 |:---|:---|:---:|:---|:---|:---|
 | B - Tasty Bytes Vignettes |	1. An Introduction to Tasty Bytes |	10 |	**What You'll Learn:** <br /> Set up the Tasty Bytes Foundational Data Model Workload Specific Roles + Warehouses Role Based Access Control (RBAC). |	Setup a Snowflake Trial Account |	[Introduction](https://quickstarts.snowflake.com/guide/tasty_bytes_introduction/index.html?index=..%2F..index#0 "Introduction") |
@@ -28,7 +28,7 @@ House Items to consider:
 
 <br />
 
-### Restart at 10:15 AM
+### Restart at 10:15 AM OR 1:15 PM
 | Option | Quickstart Topic | Time Minutes | Details | Prerequisities | Links to Quickstarts |
 |:---|:---|:---:|:---|:---|:---|
 | Tasty Bytes | Vignettes	6. Governance in Snowflake |	36 |	**What You Will Learn:** <br /> What System Defined Roles Exist in Snowflake Accounts <br /> How to Create a Role <br /> How to Grant Privileges to a Role <br /> How to Create a Tag <br /> How to Create a Masking Policy <br /> How to Deploy a Tag Based Masking Policy <br /> How to Create a Row Access Policy using a Mapping Table <br /> How to Create an Aggregation Policy <br /> How to Create a Projection Policy <br /> How to Leverage Automatic and Custom Data Classification <br /> How to use Universal Search | | [Governance](https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_governance_with_horizon/index.html?index=..%2F..index#0 "Snowflake Governance") | 
@@ -38,7 +38,7 @@ House Items to consider:
 
 <br />
 
-### Restart at 11:20 AM 
+### Restart at 11:20 AM OR 2:20 PM
 | Option | Quickstart Topic | Time Minutes | Details | Prerequisities | Links to Quickstarts |
 |:---|:---|:---:|:---|:---|:---|
 | DocumentAI |	Extracting Insights from Unstructured Data with Document AI |	38 |	**What You Will Learn:** <br /> How to Upload Files to a Stage <br /> How to Train a Data Extraction Model using Document AI <br /> How to Extract Data from Unstructured Documents <br /> How to Flatten Semi-Structured Data | | [DocAI](https://quickstarts.snowflake.com/guide/tasty_bytes_extracting_insights_with_docai/index.html?index=..%2F..index#0 "Document AI") |
