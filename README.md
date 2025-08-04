@@ -41,8 +41,10 @@ House Items to consider:
 ### Restart at 11:20 AM OR 2:20 PM
 | Option | Quickstart Topic | Time Minutes | Details | Prerequisities | Links to Quickstarts |
 |:---|:---|:---:|:---|:---|:---|
-| DocumentAI |	Extracting Insights from Unstructured Data with Document AI |	38 |	**What You Will Learn:** <br /> How to Upload Files to a Stage <br /> How to Train a Data Extraction Model using Document AI <br /> How to Extract Data from Unstructured Documents <br /> How to Flatten Semi-Structured Data | | [DocAI](https://quickstarts.snowflake.com/guide/tasty_bytes_extracting_insights_with_docai/index.html?index=..%2F..index#0 "Document AI") |
 | Analytics	Cortex | Analyst: Augment BI with AI |	47 |	**What You Will Learn:** <br /> How to construct and configure a Semantic Model for your data <br /> How to call the Cortex Analyst REST API to use your Semantic Model to enable natural-language question-asking on top of your structured data in Snowflake via Streamlit in Snowflake (SiS) application <br /> How to integrate Cortex Analyst with Cortex Search to enhance SQL queries generated <br /> How to enable Join support for Star Schemas <br /> How to enable multi-turn conversations | | [Cortex Analyst](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_analyst/index.html?index=..%2F..index#0 "Cortex Analyst")|
+| Custom API | Build a private Custom API in Python and Flask using Ockam | 30 | **What You Will Learn:** <br /> How to configure and build a custom API Powered by Snowflake. <br /> How to build, publish, and deploy a container with the API in Snowflake | | [Custom API Buil](https://quickstarts.snowflake.com/guide/build_a_private_custom_api_in_python/index.html?index=..%2F..index#0) |
+| DocumentAI |	Extracting Insights from Unstructured Data with Document AI |	38 |	**What You Will Learn:** <br /> How to Upload Files to a Stage <br /> How to Train a Data Extraction Model using Document AI <br /> How to Extract Data from Unstructured Documents <br /> How to Flatten Semi-Structured Data | Optional | [DocAI](https://quickstarts.snowflake.com/guide/tasty_bytes_extracting_insights_with_docai/index.html?index=..%2F..index#0 "Document AI") |
+
 
 <br />
 
