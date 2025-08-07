@@ -31,7 +31,7 @@ House Items to consider:
 ### Restart at 10:15 AM OR 1:15 PM
 | Option | Quickstart Topic | Time Minutes | Details | Prerequisities | Links to Quickstarts |
 |:---|:---|:---:|:---|:---|:---|
-| Tasty Bytes | Vignettes	6. Governance in Snowflake |	36 |	**What You Will Learn:** <br /> What System Defined Roles Exist in Snowflake Accounts <br /> How to Create a Role <br /> How to Grant Privileges to a Role <br /> How to Create a Tag <br /> How to Create a Masking Policy <br /> How to Deploy a Tag Based Masking Policy <br /> How to Create a Row Access Policy using a Mapping Table <br /> How to Create an Aggregation Policy <br /> How to Create a Projection Policy <br /> How to Leverage Automatic and Custom Data Classification <br /> How to use Universal Search | | [Governance](https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_governance_with_horizon/index.html?index=..%2F..index#0 "Snowflake Governance") | 
+| Tasty Bytes | Vignettes	6. Governance in Snowflake |	45 |	**What You Will Learn:** <br /> What System Defined Roles Exist in Snowflake Accounts <br /> How to Create a Role <br /> How to Grant Privileges to a Role <br /> How to Create a Tag <br /> How to Create a Masking Policy <br /> How to Deploy a Tag Based Masking Policy <br /> How to Create a Row Access Policy using a Mapping Table <br /> How to Create an Aggregation Policy <br /> How to Create a Projection Policy <br /> How to Leverage Automatic and Custom Data Classification <br /> How to use Universal Search | | [Governance](https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_governance_with_horizon/index.html?index=..%2F..index#0 "Snowflake Governance") | 
 | Time for Section 2 | | 45 | | | |
 | Break | | 15 | | | |
 
