@@ -41,7 +41,7 @@ House Items to consider:
 | Option | Quickstart Topic | Time Minutes | Details | Prerequisities | Links to Quickstarts |
 |:---|:---|:---:|:---|:---|:---|
 | Analytics	Cortex | Analyst: Augment BI with AI |	47 |	**What You Will Learn:** <br /> How to construct and configure a Semantic Model for your data <br /> How to call the Cortex Analyst REST API to use your Semantic Model to enable natural-language question-asking on top of your structured data in Snowflake via Streamlit in Snowflake (SiS) application <br /> How to integrate Cortex Analyst with Cortex Search to enhance SQL queries generated <br /> How to enable Join support for Star Schemas <br /> How to enable multi-turn conversations | Optional | [Cortex Analyst](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_analyst/index.html?index=..%2F..index#0 "Cortex Analyst")|
-| Custom API | Build a private Custom API in Python and Flask using Ockam | 60 | **What You Will Learn:** <br /> How to configure and build a custom API Powered by Snowflake. <br /> How to build, publish, and deploy a container with the API in Snowflake | Snowflake Trial Account <br /> GitHub Codespaces <br /> Snow SQL CLI | [Custom API Buil](https://quickstarts.snowflake.com/guide/build_a_private_custom_api_in_python/index.html?index=..%2F..index#0) |
+| Custom API | Build a private Custom API in Python and Flask using Ockam | 60 | **What You Will Learn:** <br /> How to configure and build a custom API Powered by Snowflake. <br /> How to build, publish, and deploy a container with the API in Snowflake | Snowflake Trial Account <br /> GitHub Codespaces | [Custom API Buil](https://quickstarts.snowflake.com/guide/build_a_private_custom_api_in_python/index.html?index=..%2F..index#0) |
 
 <br />
 
